@@ -1,6 +1,10 @@
 Esocplatform::Application.routes.draw do
   resources :microposts
 
+
+  resources :microsofts
+
+
   resources :users
 
 
